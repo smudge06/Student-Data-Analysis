@@ -1,0 +1,13 @@
+Data Analyst
+↓
+GitHub
+↓
+Jenkins
+↓
+Updated Project Files
+
+Explanation:
+
+The Data Analyst creates or updates project files and datasets. These files are uploaded to GitHub, which stores the latest version of the project. Jenkins is connected to the GitHub repository and automatically fetches the updated files whenever a new build is triggered. The updated project files are then available in the Jenkins workspace for the team to use.
+
+This workflow saves time by reducing manual work, ensuring everyone uses the latest version of the project, minimizing errors, and improving collaboration between team members.
